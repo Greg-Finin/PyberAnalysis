@@ -4,6 +4,6 @@ For this project we were tasked with analyzing the data from Pyber, a ride shari
 ## Analysis
 We found that Urban cities had the most rides over the given period, but the lowest average fare per driver and the lowest average fare per ride.
 ![PyberDataFrame](Pyber_DataFrame.png)
-![PyberPlot](FinalCopy.png)
+![PyberPlot](Final_Copy.png)
 ## Summary
 
